@@ -1,8 +1,7 @@
-package org.example.graphicEditor.step02;
+package org.example.graphicEditor.step03;
 
 public class Ellipse extends Shape {
-    @Override
-    public void draw(){
+    public void drawEllipse(){
         System.out.println("Drawing Ellipse");
     }
 }

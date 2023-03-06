@@ -1,8 +1,7 @@
-package org.example.graphicEditor.step02;
+package org.example.graphicEditor.step03;
 
 public class Line extends Shape {
-    @Override
-    public void draw(){
+    public void drawLine(){
         System.out.println("Drawing Line");
     }
 }

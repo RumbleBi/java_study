@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="576c750c-637c-4343-9de0-35ed6040d8ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Ellipse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/GraphicEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step01/GraphicEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step01/GraphicEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step03/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step03/GraphicEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step03/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step03/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step03/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Ellipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +51,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/jojinil/Desktop/java_project/src/main/java/org/example/graphicEditor/step02"
+    "last_opened_file_path": "/Users/jojinil/Desktop/java_project/src/main/java/org/example/graphicEditor/step03"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step03" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/graphicEditor/step02" />
     </key>
   </component>

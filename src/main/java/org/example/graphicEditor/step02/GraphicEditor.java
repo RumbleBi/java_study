@@ -18,22 +18,9 @@ public class GraphicEditor {
             }
         }
         // Drawing Shapes
-        // forEach syntax
-        // shapes 배열에서 index 0 부터 Shape 변수가 참조할 수 있도록 함.
-        // shapes 배열에서 하나씩 shape 의 요소들을 순회함
+        // @Overriding
         for (Shape shape : shapes) {
-            // shape 이 참조하는 그 대상이 Rectangle 객체로 다운캐스팅이 되는지 묻는 if문
-
-            if(shape instanceof Rectangle) {
-                // Rectangle rect = (Rectangle) shape; 다운캐스팅
-                // rect.drawRectangle();
-                ((Rectangle)shape).drawRectangle();
-            } else if (shape instanceof Ellipse) {
-                ((Ellipse)shape).drawEllipse();
-            } else if (shape instanceof Line) {
-                ((Line)shape).drawLine();
-            }
+            shape.draw();
         }
-
     }
 }
